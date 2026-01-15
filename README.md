@@ -10,7 +10,6 @@ A console-based **Library Management System** built with **pure Core Java**. Thi
 
 It demonstrates **Object-Oriented Programming** principles deeply: multiple related classes, **inheritance** (different member types with varying borrow limits), **polymorphism** (treating subclasses uniformly), encapsulation, and collections.
 
-Excellent portfolio project for Java freshers — recruiters love it because it mirrors enterprise systems and opens discussions on design patterns (e.g., how this could evolve with Strategy or Factory patterns).
 
 ## 🚀 Features
 
